@@ -467,6 +467,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Package Registry Search](https://github.com/artmann/package-registry-mcp)** - Search and get up-to-date information about NPM, Cargo, PyPi, and NuGet packages.
 - **[Pandoc](https://github.com/vivekVells/mcp-pandoc)** - MCP server for seamless document format conversion using Pandoc, supporting Markdown, HTML, and plain text, with other formats like PDF, csv and docx in development.
 - **[Paperless-MCP](https://github.com/baruchiro/paperless-mcp)** - An MCP server for interacting with a Paperless-NGX API server. This server provides tools for managing documents, tags, correspondents, and document types in your Paperless-NGX instance.
+- **[pardesline](https://github.com/pardesline/pardesline)** - 3D vision and medical imaging for agents: 43 public datasets with their licences, 73 algorithms on point clouds, meshes and CT/MRI volumes, 20 expert guides. Local, Apache-2.0, no account.
 - **[PBS API](https://github.com/matthewdcage/pbs-mcp-server)** - 🐍 ☁️ Access Australian Pharmaceutical Benefits Scheme data for medicine information, pricing, and availability. Built with Python and FastAPI.
 - **[Peekaboo](https://github.com/steipete/Peekaboo)** - a macOS-only MCP server that enables AI agents to capture screenshots of applications, or the entire system.
 - **[Peliqan](https://github.com/Peliqan-io/mcp-server-peliqan)** - Data platform with ETL and built-in data warehouse, access all business applications (ERP, CRM, Accounting etc.) via MCP and run queries on your business data.
@@ -535,7 +536,6 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Wassenger](https://github.com/wassengerhq/mcp-wassenger)** - [Wassenger](https://wassenger.com) MCP server to chat, send messages and automate WhatsApp from any AI model client (free trial available).
 - **[Weather](https://github.com/TimLukaHorstmann/mcp-weather)** - Accurate weather forecasts via the AccuWeather API (free tier available).
 - **[KnowAir Weather](https://github.com/shuowang-ai/Weather-MCP)** – Real-time weather **and air quality** via the Caiyun Weather API (meteorology + AQI, CN & US standards).
-- **[pardesline](https://github.com/pardesline/pardesline)** - 3D vision and medical imaging for agents: 43 public datasets with their licences, 73 algorithms on point clouds, meshes and CT/MRI volumes, 20 expert guides. Local, Apache-2.0, no account.
 - **[Webex](https://github.com/Kashyap-AI-ML-Solutions/webex-messaging-mcp-server)** - A Model Context Protocol (MCP) server that provides AI assistants with comprehensive access to Cisco Webex messaging capabilities.
 - **[Web Search MCP](https://github.com/mrkrsl/web-search-mcp)** - A server that provides local, full web search, summaries and page extration for use with Local LLMs.
 - **[WebSearch-MCP](https://github.com/mnhlt/WebSearch-MCP)** - Self-hosted Websearch API
